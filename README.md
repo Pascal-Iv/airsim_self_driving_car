@@ -3,5 +3,8 @@ Building a convolutional neural network for autonomous driving in a simple virtu
 The virtual environment is Airsim, an open-source simulation environment for cars and drones.
 I created training data by manually driving in Airsim, while recording images taken by the front camera and the current steering angle.
 
+I did not yet upload the data, but I will do so in the near future.
+
+
 Airsim:
 https://github.com/microsoft/AirSim
